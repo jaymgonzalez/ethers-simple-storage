@@ -1,4 +1,4 @@
 node_modules/
 .env
 *.js
-.encryptedKey.json
+.encryptedJsonKey.json
